@@ -1,0 +1,11 @@
+*/Styling body part website/
+
+body {
+    font-size: medium;
+    background-color: rgb(240, 248, 255);
+    text-align: center;
+    image-orientation: fliP;
+    margin-inline-start: 40px;
+    margin-inline-end: 30px;
+
+}
